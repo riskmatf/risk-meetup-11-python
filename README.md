@@ -17,13 +17,13 @@ Na predavanju će biti uvod u sam jezik, a nakon toga demonstracija nekih od bib
 
 Tokom predavanja će biti korisceni git i github.
 
-Kurs je namenjen svima koji imaju osnovno znanje programiranja(grananja, petlje, funkcije, osnovne strukture podataka).
+Kurs je namenjen svima koji imaju osnovno znanje programiranja (grananja, petlje, funkcije, osnovne strukture podataka).
 
 ## Podešavanje okruženja
 
-Od glavnih programa, biće korišćeni [python3](https://www.python.org/downloads/), [git](https://github.com/riskmatf/git-radionica) i pip(dolazi u paketu sa python3).
+Od glavnih programa, biće korišćeni [python3](https://www.python.org/downloads/), [git](https://github.com/riskmatf/git-radionica) i pip (dolazi u paketu sa python3).
 
-Ukoliko planirate da kucate na predavanju i instalirate biblioteke, savetujem da pročitate [ovaj](https://realpython.com/python-virtual-environments-a-primer/) članak o virtuelnim okruženjima u pythonu.
+Ukoliko planirate da kucate na predavanju i instalirate biblioteke, preporučujemo vam da pročitate [ovaj](https://realpython.com/python-virtual-environments-a-primer/) članak o virtuelnim okruženjima u pythonu.
 
 ### Biblioteke
 
