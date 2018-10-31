@@ -1,10 +1,10 @@
-#Uvod u Python
+# Uvod u Python
 
-##Kad i gde
+## Kad i gde
 
 03.11.2018 u 12h **subota** u zgradi MATF-a, broj učionice će biti naknadno objavljen.
 
-###Python
+### Python
 Python je programski jezik koji je čuven po svojoj jednostavnoj sintaksi i moćnim bibliotekama.
 Jedan deo tih biblioteka se isporučuje zajedno sa jezikom ali prava moć leži u bibliotekama koje pišu ljudi sa strane,
 ljudi koji zele da urade sto više posla u što manje linija.
