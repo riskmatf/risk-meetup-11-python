@@ -1,5 +1,9 @@
 # Uvod u Python
 
+<div style="text-align: center">
+<img style="margin: auto" src="https://i.imgur.com/vPIuIJr.png">
+</div>
+
 ## Kad i gde
 
 03.11.2018 u 12h **subota** u zgradi MATF-a, broj učionice će biti naknadno objavljen.
