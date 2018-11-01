@@ -6,7 +6,7 @@
 
 ## Kad i gde
 
-03.11.2018 u 12h **subota** u zgradi MATF-a, broj učionice će biti naknadno objavljen.
+03.11.2018 u 13h **subota** u zgradi MATF-a, broj učionice će biti naknadno objavljen.
 
 ### Python
 Python je programski jezik koji je čuven po svojoj jednostavnoj sintaksi i moćnim bibliotekama.
