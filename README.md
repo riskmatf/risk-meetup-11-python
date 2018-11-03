@@ -39,7 +39,7 @@ Jupyter notebook sa predavanja možete naći na [ovom linku](https://colab.resea
 
 ### Dodatni linkovi
 
-Spisak veliko broja python biblioteka: [ovde](https://awesome-python.com/)
+Spisak velikog broja python biblioteka: [ovde](https://awesome-python.com/)
 
 Desktop notifikacije u pythonu: [ovde](https://www.devdungeon.com/content/desktop-notifications-linux-python)
 
