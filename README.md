@@ -30,4 +30,18 @@ Ukoliko planirate da kucate na predavanju i instalirate biblioteke, preporučuje
 - [requests](http://docs.python-requests.org/en/latest/)
 - [Beautifull Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 - [tqdm](https://github.com/tqdm/tqdm)
+- [hashlib](https://docs.python.org/3/library/hashlib.html)
+
+
+### Jupyter notebook
+
+Jupyter notebook sa predavanja možete naći na [ovom linku](https://colab.research.google.com/drive/1Nrs27bNOauM9YpN-BRhj-kcjP1aO0IRt).
+
+### Dodatni linkovi
+
+Spisak veliko broja python biblioteka: [ovde](https://awesome-python.com/)
+
+Desktop notifikacije u pythonu: [ovde](https://www.devdungeon.com/content/desktop-notifications-linux-python)
+
+
 
