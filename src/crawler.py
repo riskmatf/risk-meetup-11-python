@@ -38,6 +38,7 @@ while old_hash == new_hash :
 new_req.encoding = "utf-8"
 html = new_req.text
 soup = bs4.BeautifulSoup(html, "html.parser")
+#ovde definisite svoju funkciju za parsiranje specificnu za sajt
 text = soup.find(id='text')
 send_email(to = mail, text = text, url = url)
 print("Poslata poruka")
